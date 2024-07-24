@@ -1,4 +1,4 @@
-# 🎉 **Discord Bot** 🎉
+# 🎉 **Mesai Bot** 🎉
 
 ## 🚀 **Hoş Geldiniz!** 🚀
 
