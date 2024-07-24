@@ -1,0 +1,61 @@
+{
+    "botSettings": {
+        "token": "BURAYA BOTUNUN TOKENİNİ GİRİCEKSİN.",
+        "ServerID": "BURAYA BOTUNU KULLANDIĞIN SERVER ID",
+        "clientID": "BURAYA BOTUNUN ID'SINI YADA CLIENT ID'SINI GIRICEKSIN.",
+        "durum": "dnd-idle-invisible-online",
+        "oynuyor": "botun oynuyoru örn: allahla mesai"
+    },
+
+
+    
+    "mesai": {
+
+        "ekip": {
+            "photograph": "buraya ekibinin fotoğrafını koyucaksın."
+        },
+
+        "menuayarlari": {
+            "mesaj": " Alttaki menüden mesaiye girebilirsiniz. \n\n```Mesaiye girdikten 2 saat sonra kontrol için bildirim alacaksınız. ``` \n\n> __Mesai kontrolü başarısız olanlara yaptırım uygulanacaktır..__ ",
+            "menuplaceholder": " Mesai işlemleri için tıklayınız..",
+            "birseceneklabel": "Mesai'ye gir",
+            "birsecenekemoji": "1264482776208506971",
+            "birsecenekaciklama": "Mesaiye girmeniz için seçmeniz gereken seçenek.",
+            "ikiseceneklabel": "Mesai kontrol",
+            "ikisecenekemoji": "1264482774434320455",
+            "ikisecenekaciklama": "Mesai kontrol etmek için seçmeniz gereken seçenek.",
+            "ucseceneklabel": "Mesai çıkış",
+            "ucsecenekemoji": "1264482777739300874",
+            "ucsecenekaciklama": "mesaiden çıkmanız için seçmeniz gereken seçenek.",
+            "dortseceneklabel": "Tüm Mesailerim",
+            "dortsecenekemoji": "1264482782994890763",
+            "dortsecenekaciklama": "Şuan'a kadar yaptığınız tüm mesailer"
+            
+        },
+
+        "yetkilimenuayarlari": {
+            "mesaj": " **Alttaki menüden memurları yönetebilirsiniz.** \n\n```Memurların her türlü kontrolünü buradan yapabilirsiniz.``` \n\n> __Yaptığınız şeyler kişilerin mesaisini etkiler.__ ",
+            "menuplaceholder": " Memurları Yönetmek için tıklayınız..",
+            "birseceneklabel": "Memuru Mesai'ye sok",
+            "birsecenekemoji": "1264482776208506971",
+            "birsecenekaciklama": "Memurları zorla mesaiye sokarsınız.",
+            "ikiseceneklabel": "Memur Mesai kontrol'ü",
+            "ikisecenekemoji": "1264482774434320455",
+            "ikisecenekaciklama": "Memurların mesailerini kontrol edersiniz.",
+            "ucseceneklabel": "Memur Mesaiden çıkart",
+            "ucsecenekemoji": "1264482777739300874",
+            "ucsecenekaciklama": "mesaiden çıkmanız için seçmeniz gereken seçenek.",
+            "dortseceneklabel": "Mesaideki memurları gör.",
+            "dortsecenekemoji": "1264482782994890763",
+            "dortsecenekaciklama": "Aktif mesaideki tüm memurları görüsünüz.",
+            "besseceneklabel": "Memurun tüm mesailerini gör.",
+            "bessecenekemoji": "1264482782994890763",
+            "bessecenekaciklama": "ID'sını girdiğiniz memurun tüm mesailerini görürsünüz."
+        }
+
+
+    }
+ 
+
+
+ }
