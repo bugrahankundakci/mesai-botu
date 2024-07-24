@@ -3,7 +3,6 @@ const { JsonDatabase } = require('for.db');
 const moment = require('moment');
 const fs = require('fs');
 
-// Veritabanı yapılandırması
 const db = new JsonDatabase({
   databasePath: "./fordb.json" 
 });
