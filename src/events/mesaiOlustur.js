@@ -78,7 +78,8 @@ module.exports = {
 
                     let mesaiBilgisi = 'Geçmiş Mesai Kayıtları:\n';
                     for (const [key, value] of Object.entries(allMesailer)) {
-                        mesaiBilgisi += `**${key}. Mesai**\nGiriş: <t:${Math.floor(new Date(value.giriş).getTime() / 1000)}:R>\nÇıkış: ${value.çıkış ? `<t:${Math.floor(new Date(value.çıkış).getTime() / 1000)}:R>` : 'Henüz çıkış yapılmamış'}\n\n`;
+                        mesaiBilgisi += `**${key}. Mesai**\nGiriş: ${value.giriş} \nÇıkış: ${value.çıkış ? moment(value.çıkış).format('YYYY-MM-DD HH:mm:ss') : 'Henüz çıkış yapılmamış'}\n\n`;
+
                     }
 
                     const filePath = `./mesai_kayitlari_${userId}.txt`;
