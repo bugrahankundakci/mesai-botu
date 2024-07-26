@@ -12,7 +12,8 @@
     "mesai": {
 
         "ekip": {
-            "photograph": "buraya ekibinin fotoğrafını koyucaksın."
+            "photograph": "buraya ekibinin fotoğrafını koyucaksın.",
+            "leaderboard": "BURAYA EKIP LEADERBOARD KANAL ID'SI"
         },
 
         "menuayarlari": {
